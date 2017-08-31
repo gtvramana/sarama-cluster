@@ -4,8 +4,7 @@
 [[projects]]
   name = "github.com/Shopify/sarama"
   packages = ["."]
-  revision = "c01858abb625b73a3af51d0798e4ad42c8147093"
-  version = "v1.12.0"
+  revision = "15174039fd207656a0f97f52bc78ec7793deeada"
 
 [[projects]]
   name = "github.com/davecgh/go-spew"
@@ -71,29 +70,29 @@
   branch = "master"
   name = "golang.org/x/net"
   packages = ["html","html/atom","html/charset"]
-  revision = "f5079bd7f6f74e23c4d65efa0f4ce14cbd6a3c0f"
+  revision = "66aacef3dd8a676686c7ae3716979581e8b03c47"
 
 [[projects]]
   branch = "master"
   name = "golang.org/x/sys"
   packages = ["unix"]
-  revision = "0f826bdd13b500be0f1d4004938ad978fcc6031e"
+  revision = "bb24a47a89eac6c1227fbcb2ae37a8b9ed323366"
 
 [[projects]]
   branch = "master"
   name = "golang.org/x/text"
   packages = ["encoding","encoding/charmap","encoding/htmlindex","encoding/internal","encoding/internal/identifier","encoding/japanese","encoding/korean","encoding/simplifiedchinese","encoding/traditionalchinese","encoding/unicode","internal/gen","internal/tag","internal/utf8internal","language","runes","transform","unicode/cldr"]
-  revision = "3bd178b88a8180be2df394a1fbb81313916f0e7b"
+  revision = "18c65dde6afd36dbc39197ca72008895b8dfbfb6"
 
 [[projects]]
   branch = "v2"
   name = "gopkg.in/yaml.v2"
   packages = ["."]
-  revision = "25c4ec802a7d637f88d584ab26798e94ad14c13b"
+  revision = "eb3733d160e74a9c7e442f435eb3bea458e1d19f"
 
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "462d8b02cbab63faf376d1ecf69285290127285bdea88fcd37e997cebe773b5c"
+  inputs-digest = "d2f2b6f96481b13540315f3152bfc3c6eabf4b7f343b81dacbb52d7760e29010"
   solver-name = "gps-cdcl"
   solver-version = 1

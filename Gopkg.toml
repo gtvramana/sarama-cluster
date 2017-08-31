@@ -23,4 +23,5 @@
 
 [[constraint]]
   name = "github.com/Shopify/sarama"
-  version = "1.9.0"
+  # version = "^1.12.0"
+  revision = "15174039fd207656a0f97f52bc78ec7793deeada"
